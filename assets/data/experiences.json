@@ -1,0 +1,100 @@
+[
+    {
+        "id": 1,
+        "position": 1,
+        "startAt": "05-15-2016",
+        "endAt": "01-24-2019",
+        "companyName": "Deft & Tact",
+        "website": "https://deftntact.com/",
+        "logo": "../../assets/template/experience/logo/deftntact.png",
+        "internationalizations": [
+            {
+                "language": "pt",
+                "city": "Uberaba",
+                "country": "Brasil",
+                "role": "Estágio Webmaster",
+                "description": "A <b>Fácil Tecnologias LTDA</b> é uma empresa focada em soluções para educação, seu principal produto é um conjunto de soluções para estudos na obtenção da <i>carteira nacional de habilitação (CNH)</i>, entre elas, multimídias, aplicativos on-line, aplicativos móveis, livros, entre outros. <br><br>Na <i>Fácil Tecnologias LTDA</i>, entrei em contato com desenvolvedores seniores, aprendendo as melhores práticas, padrões e como debater idéias e oferecer soluções diversas para o mesmo problema. Foi o ponto de partida, uma oportunidade única de transformar o conhecimento teórico em soluções concretas que estavam sendo usadas por centenas de pessoas todos os dias."
+            },
+            {
+                "language": "en",
+                "city": "Hyderabad",
+                "country": "India",
+                "role": "Full-stack Developer",
+                "description": "<b>Deft & Tact is a 3D Content/XR studio that helps businesses to create interactive, immersive experiences to showcase products in 3D anywhere and everywhere.</b><br/><br/>Passion and expertise set our team apart. We have vast experience in creating Photo-realistic 3D experiences using industry's leading XR technologies and devices such as ARKit, ARCore, Unreal, Oculus, Windows Mixed Reality headsets and Hololens. Over the years we worked with various brands across industries to create photorealistic XR experiences on web, mobile, AR, and VR devices."
+            }
+        ],
+        "technologies": [
+             "HTML", "CSS", "CSS3", "Javascript", "jQuery", "AJAX", "SQL", "MySQL", "Windows","Azure","Android","DevOps","Firebase","Git","Google APIs","Asp.Net Mvc","Swift","iOS","React Native","Web-API","Arduino","MongoDB","SSL"
+        ],
+        "medias": [
+            {
+                "icon": "facebook",
+                "title": "Facebook Deft & Tact",
+                "http": "https://www.facebook.com/deftn.tact.7"
+            },
+            {
+                "icon": "linkedin",
+                "title": "Linkedin Deft & Tact",
+                "http": "https://www.linkedin.com/company/deft-n-tact/"
+            },
+            {
+                "icon": "twitter",
+                "title": "Twitter Deft & Tact",
+                "http": "https://twitter.com/deftntact"
+            },
+            {
+                "icon": "instagram",
+                "title": "Instagram Deft & Tact",
+                "http": "https://www.instagram.com/deft_and_tact/"
+            }
+        ],
+        "backgroundUrl": "../../assets/template/experience/uberaba.jpg"
+    },
+    {
+        "id": 2,
+        "position": 2,
+        "startAt": "01-24-2019",
+        "endAt": "01-16-2021",
+        "companyName": "INoryaSoft Pvt Ltd.",
+        "website": "https://www.inoryasoft.com/",
+        "logo": "../../assets/template/experience/logo/inoryasoft-logo-white.png",
+        "internationalizations": [
+            {
+                "language": "pt",
+                "city": "Rio de Janeiro",
+                "country": "Brasil",
+                "role": "Desenvolvedor Full-stack",
+                "description": "A <b>E-tática</b> é uma agência especializada em soluções para <i>comércio eletrônico</i>, marketing digital e identidade visual desde 2008, trabalhando com grandes, pequenos e médios negócios, oferecendo para seus clientes, o know-how na integração de seus negócios com <i>Sistemas integrados de gestão empresarial (ERP)</i> e <i>APIs de terceiros</i>, tais como <i>provedores de pagamento personalizados</i>, fazendo a integração do gerenciamento interno da plataforma on-line e da loja física, sendo certificada pelas principais plataformas do mercado.<br><br>Na <i>E-tática </i>, trabalhei para desenvolver soluções personalizadas para clientes do atacado e varejo, valorizando a qualidade e a continuidade dos projetos a médio e longo prazo."
+            },
+            {
+                "language": "en",
+                "city": "Chennai",
+                "country": "India",
+                "role": "Full-stack Developer",
+                "description": "<b>What <i>iNoryaSoft</i> Stands ForEverything we do is informed by our values.</b><br/><br/> We don't over-promise and under-deliver. We excel and improve because we have found meaning in our work.<br/>We provide a variety of web solutions that enhance your digital assets or your understanding of new and disruptive technologies. Bring us on board to maximize business value from your technology investment."
+            }
+        ],
+        "technologies": [
+              "HTML", "CSS", "CSS3", "Javascript", "jQuery", "SVN", "Payment Services", "SSH", "SSL", "ASP.Net Mvc","AJAX","SQL","Angular","DevOps","Web-API"
+        ],
+        "medias": [
+            {
+                "icon": "linkedin",
+                "title": "LinkedIn INoryaSoft",
+                "http": "https://www.linkedin.com/company/inoryasoft"
+            },
+            {
+                "icon": "facebook",
+                "title": "Facebook INoryaSoft",
+                "http": "https://www.facebook.com/inoryasoft"
+            },
+            {
+                "icon": "twitter",
+                "title": "Twitter INoryaSoft",
+                "http": "https://twitter.com/inoryasoft"
+            }
+        ],
+        "backgroundUrl": "../../assets/template/experience/rio.jpg"
+    }
+    
+]
